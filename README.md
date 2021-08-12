@@ -1,6 +1,7 @@
 # Chess
 
-2-players-chess-game.ml
+#2-players-chess-game.ml
+
 Chess Game for 2 players
 Play a chess using virtual chess board and pieces with beautiful animation.
 Rules are already embedded into the logic
